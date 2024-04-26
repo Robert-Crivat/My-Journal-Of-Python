@@ -1,0 +1,1 @@
+print("your BMI is : " + str(int(input("insert your weight in kg : "))/pow(float(input("insert your height in m : ")), 2)))
