@@ -1,0 +1,1 @@
+The entire section 6 was ambiented in a online platfor to implemente function while if elif ecc to complete a path for one robot to arrive at the goal so no file of coding for this section
